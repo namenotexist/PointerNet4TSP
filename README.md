@@ -1,1 +1,1 @@
-# Pointer_Net4TSP
+# PointerNet4TSP
